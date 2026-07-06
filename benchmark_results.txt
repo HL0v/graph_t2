@@ -1,0 +1,10 @@
+Cora Dataset Node Classification Benchmark
+=============================================
+System: AMD Ryzen 5500U | 8GB RAM
+Execution Mode: Isolated Subprocesses
+=============================================
+
+Model: MLP        | Accuracy: 0.5660 | Time: 6.6s
+Model: LPA        | Accuracy: 0.7130 | Time: 3.3s
+Model: Node2Vec   | Accuracy: 0.4260 | Time: 85.7s
+Model: GCN        | Accuracy: 0.7890 | Time: 5.5s
